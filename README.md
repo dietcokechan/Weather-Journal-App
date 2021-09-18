@@ -14,3 +14,5 @@ For this project, I installed Node.js, and a couple of JSON packages like Expres
 As for the OpenWeatherMap API, all I did was sign up at this [link](https://openweathermap.org) and got my personalized API Key along with my base url, all information can be found in this [documentation](https://openweathermap.org/current)
 
 ## Preview
+![](https://user-images.githubusercontent.com/68277372/133885673-ae44d0db-6648-424a-ae4e-a4c2f0c6b2f8.png)
+![](https://user-images.githubusercontent.com/68277372/133885675-f94a5339-6526-4219-8499-0d023cbb95a6.png)
